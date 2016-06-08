@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:29:10.455177
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:28
 #+TITLE: 三教平心論
 #+PROPERTY: CBETA_ID T52n2117
 #+PROPERTY: ID KR6r0150
@@ -13,7 +13,7 @@
 ¶
 No.2117¶
 
-三教平心論序
+* 三教平心論序
 :PROPERTIES:
 :head: 三教平心論序
 :END:
