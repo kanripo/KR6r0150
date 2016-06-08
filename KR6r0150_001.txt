@@ -1,23 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:29:10.455177
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:28
 #+TITLE: 三教平心論
 #+PROPERTY: CBETA_ID T52n2117
 #+PROPERTY: ID KR6r0150
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 52, No. 2117
 #+PROPERTY: VOL 52
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0150_T_000-0781a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0150_T_001-0781a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.2117¶
+No. 2117¶
 
-三教平心論序
-:PROPERTIES:
-:head: 三教平心論序
-:END:
-¶
+* 三教平心論序¶
 ¶
 
 三光麗天。亘萬古而長耀。百川到海。同一味¶
@@ -44,8 +40,7 @@ No.2117¶
 時龍集甲子秋七月上日謹序¶
 ¶
 ¶
-
- 三教平心論卷上¶
+三教平心論卷上¶
 ¶
 靜齋學士劉謐撰¶
 
